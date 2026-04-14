@@ -6,7 +6,10 @@ papers/
 papers_record.xlsx
 papers_record.csv
 
+
 new_papers.json
+
+crawled_ids.txt
 
 .gitignore
 
